@@ -1,4 +1,4 @@
-#IMDB Sentiment Analysis With Tensorflow
+# IMDB Sentiment Analysis With Tensorflow
 
 Bu proje Trakya Üniversitesi Bilgisayar Mühendisliği bölümü Yapay Sinir Ağları dersi için yapılmıştır. Amacı 50.000 adet pozitif ve negatif yorumdan oluşan veri setini kullanarak anlam analizi yapmaktır. 
 Veri temizleme, görselleştirme, binary hale getirme işlemlerini takip eden bir model kurma, modeli eğitme aşamalarından oluşur. Denenen birçok model ve tek bir başarılı modelin parametrelerinde 
